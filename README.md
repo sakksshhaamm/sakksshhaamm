@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakksshhaamm" alt="sakksshhaamm" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@sakshambhambot" target="blank"><img src="https://img.shields.io/twitter/follow/@sakshambhambot?logo=twitter&style=for-the-badge" alt="@sakshambhambot" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sakshambhambot" target="blank"><img src="https://img.shields.io/twitter/follow/sakshambhambot?logo=twitter&style=for-the-badge" alt="sakshambhambot" /></a> </p>
 
 - 🌱 I’m currently learning **css, JavaScript, react js, PHP**
 
