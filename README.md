@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **css, JavaScript, react js, PHP**
 
-- 📝 I regularly write articles on [https://upcoming-engineer.blogspot.com](https://upcoming-engineer.blogspot.com)
+- 📝 I  write articles on [https://upcoming-engineer.blogspot.com](https://upcoming-engineer.blogspot.com)
 
 - 📫 How to reach me **saksham.bhambota@gmail.com**
 
