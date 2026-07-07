@@ -25,7 +25,7 @@
 name       : Saksham Bhambota
 role       : DevOps Engineer — CI/CD & Infrastructure Automation
 company    : KPIT Technologies, Pune
-experience : 2+ years in production automotive-grade DevOps
+experience : 3+ years in production automotive-grade DevOps
 focus      : Android Build Integration · Python Automation · CI/CD Pipelines
 available  : Part-time contracts & freelance projects
 ```
